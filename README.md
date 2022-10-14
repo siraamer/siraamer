@@ -1,18 +1,13 @@
 <h1 align="center"> Hi I'm Muhammad 👋 </h1>
 
-<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
-
-
 <p align="center">
-I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I am a Backend developer with more than 2 years of experience. I have strong knowledge of web development using NodeJS. In addition, I also have good experience with JS frameworks such as React, Vue, and some experience with Docker containerization, Kubernetes etc.
 </p>
-<p align="center">
-Fascinated about infinite space. Occupy Mars! :rocket:
-</p>
+
 
 **💼 Currently working as:**
 
-Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab</b></a>
+Software Engineer at KFCRIS
 
 **🌱 Currently working on:**
 
